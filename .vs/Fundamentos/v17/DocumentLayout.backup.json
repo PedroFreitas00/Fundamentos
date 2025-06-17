@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aaraujo31\\Documents\\Aulas\\TreinaWeb\\Especialista ASP.NET Core\\Fundamentos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{754EC16E-0A13-9AC1-FC5D-7FCDEF09BC15}|TWTodoList\\TWTodoList.csproj|c:\\users\\aaraujo31\\documents\\aulas\\treinaweb\\especialista asp.net core\\fundamentos\\twtodolist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{754EC16E-0A13-9AC1-FC5D-7FCDEF09BC15}|TWTodoList\\TWTodoList.csproj|solutionrelative:twtodolist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754EC16E-0A13-9AC1-FC5D-7FCDEF09BC15}|TWTodoList\\TWTodoList.csproj|c:\\users\\aaraujo31\\documents\\aulas\\treinaweb\\especialista asp.net core\\fundamentos\\twtodolist\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754EC16E-0A13-9AC1-FC5D-7FCDEF09BC15}|TWTodoList\\TWTodoList.csproj|solutionrelative:twtodolist\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754EC16E-0A13-9AC1-FC5D-7FCDEF09BC15}|TWTodoList\\TWTodoList.csproj|c:\\users\\aaraujo31\\documents\\aulas\\treinaweb\\especialista asp.net core\\fundamentos\\twtodolist\\viewmodels\\detailstodoviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754EC16E-0A13-9AC1-FC5D-7FCDEF09BC15}|TWTodoList\\TWTodoList.csproj|solutionrelative:twtodolist\\viewmodels\\detailstodoviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754EC16E-0A13-9AC1-FC5D-7FCDEF09BC15}|TWTodoList\\TWTodoList.csproj|c:\\users\\aaraujo31\\documents\\aulas\\treinaweb\\especialista asp.net core\\fundamentos\\twtodolist\\views\\todo\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{754EC16E-0A13-9AC1-FC5D-7FCDEF09BC15}|TWTodoList\\TWTodoList.csproj|solutionrelative:twtodolist\\views\\todo\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754EC16E-0A13-9AC1-FC5D-7FCDEF09BC15}|TWTodoList\\TWTodoList.csproj|c:\\users\\aaraujo31\\documents\\aulas\\treinaweb\\especialista asp.net core\\fundamentos\\twtodolist\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{754EC16E-0A13-9AC1-FC5D-7FCDEF09BC15}|TWTodoList\\TWTodoList.csproj|solutionrelative:twtodolist\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754EC16E-0A13-9AC1-FC5D-7FCDEF09BC15}|TWTodoList\\TWTodoList.csproj|c:\\users\\aaraujo31\\documents\\aulas\\treinaweb\\especialista asp.net core\\fundamentos\\twtodolist\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754EC16E-0A13-9AC1-FC5D-7FCDEF09BC15}|TWTodoList\\TWTodoList.csproj|solutionrelative:twtodolist\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754EC16E-0A13-9AC1-FC5D-7FCDEF09BC15}|TWTodoList\\TWTodoList.csproj|c:\\users\\aaraujo31\\documents\\aulas\\treinaweb\\especialista asp.net core\\fundamentos\\twtodolist\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{754EC16E-0A13-9AC1-FC5D-7FCDEF09BC15}|TWTodoList\\TWTodoList.csproj|solutionrelative:twtodolist\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754EC16E-0A13-9AC1-FC5D-7FCDEF09BC15}|TWTodoList\\TWTodoList.csproj|c:\\users\\aaraujo31\\documents\\aulas\\treinaweb\\especialista asp.net core\\fundamentos\\twtodolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754EC16E-0A13-9AC1-FC5D-7FCDEF09BC15}|TWTodoList\\TWTodoList.csproj|solutionrelative:twtodolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754EC16E-0A13-9AC1-FC5D-7FCDEF09BC15}|TWTodoList\\TWTodoList.csproj|c:\\users\\aaraujo31\\documents\\aulas\\treinaweb\\especialista asp.net core\\fundamentos\\twtodolist\\entityconfig\\todoentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754EC16E-0A13-9AC1-FC5D-7FCDEF09BC15}|TWTodoList\\TWTodoList.csproj|solutionrelative:twtodolist\\entityconfig\\todoentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754EC16E-0A13-9AC1-FC5D-7FCDEF09BC15}|TWTodoList\\TWTodoList.csproj|c:\\users\\aaraujo31\\documents\\aulas\\treinaweb\\especialista asp.net core\\fundamentos\\twtodolist\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754EC16E-0A13-9AC1-FC5D-7FCDEF09BC15}|TWTodoList\\TWTodoList.csproj|solutionrelative:twtodolist\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\aaraujo31\\Documents\\Aulas\\TreinaWeb\\Especialista ASP.NET Core\\Fundamentos\\TWTodoList\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TWTodoList\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\aaraujo31\\Documents\\Aulas\\TreinaWeb\\Especialista ASP.NET Core\\Fundamentos\\TWTodoList\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TWTodoList\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA3wAQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:22:13.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form.cshtml",
+              "DocumentMoniker": "C:\\Users\\aaraujo31\\Documents\\Aulas\\TreinaWeb\\Especialista ASP.NET Core\\Fundamentos\\TWTodoList\\Views\\Todo\\Form.cshtml",
+              "RelativeDocumentMoniker": "TWTodoList\\Views\\Todo\\Form.cshtml",
+              "ToolTip": "C:\\Users\\aaraujo31\\Documents\\Aulas\\TreinaWeb\\Especialista ASP.NET Core\\Fundamentos\\TWTodoList\\Views\\Todo\\Form.cshtml",
+              "RelativeToolTip": "TWTodoList\\Views\\Todo\\Form.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T18:22:05.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\aaraujo31\\Documents\\Aulas\\TreinaWeb\\Especialista ASP.NET Core\\Fundamentos\\TWTodoList\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TWTodoList\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\aaraujo31\\Documents\\Aulas\\TreinaWeb\\Especialista ASP.NET Core\\Fundamentos\\TWTodoList\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TWTodoList\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T18:22:02.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\aaraujo31\\Documents\\Aulas\\TreinaWeb\\Especialista ASP.NET Core\\Fundamentos\\TWTodoList\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "TWTodoList\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\aaraujo31\\Documents\\Aulas\\TreinaWeb\\Especialista ASP.NET Core\\Fundamentos\\TWTodoList\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "TWTodoList\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:21:59.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aaraujo31\\Documents\\Aulas\\TreinaWeb\\Especialista ASP.NET Core\\Fundamentos\\TWTodoList\\appsettings.json",
+              "RelativeDocumentMoniker": "TWTodoList\\appsettings.json",
+              "ToolTip": "C:\\Users\\aaraujo31\\Documents\\Aulas\\TreinaWeb\\Especialista ASP.NET Core\\Fundamentos\\TWTodoList\\appsettings.json",
+              "RelativeToolTip": "TWTodoList\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-22T12:45:37.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetailsTodoViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\aaraujo31\\Documents\\Aulas\\TreinaWeb\\Especialista ASP.NET Core\\Fundamentos\\TWTodoList\\ViewModels\\DetailsTodoViewModels.cs",
+              "RelativeDocumentMoniker": "TWTodoList\\ViewModels\\DetailsTodoViewModels.cs",
+              "ToolTip": "C:\\Users\\aaraujo31\\Documents\\Aulas\\TreinaWeb\\Especialista ASP.NET Core\\Fundamentos\\TWTodoList\\ViewModels\\DetailsTodoViewModels.cs",
+              "RelativeToolTip": "TWTodoList\\ViewModels\\DetailsTodoViewModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:22:10.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\aaraujo31\\Documents\\Aulas\\TreinaWeb\\Especialista ASP.NET Core\\Fundamentos\\TWTodoList\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TWTodoList\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\aaraujo31\\Documents\\Aulas\\TreinaWeb\\Especialista ASP.NET Core\\Fundamentos\\TWTodoList\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TWTodoList\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T14:43:17.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aaraujo31\\Documents\\Aulas\\TreinaWeb\\Especialista ASP.NET Core\\Fundamentos\\TWTodoList\\Program.cs",
+              "RelativeDocumentMoniker": "TWTodoList\\Program.cs",
+              "ToolTip": "C:\\Users\\aaraujo31\\Documents\\Aulas\\TreinaWeb\\Especialista ASP.NET Core\\Fundamentos\\TWTodoList\\Program.cs",
+              "RelativeToolTip": "TWTodoList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T12:45:48.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\aaraujo31\\Documents\\Aulas\\TreinaWeb\\Especialista ASP.NET Core\\Fundamentos\\TWTodoList\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TWTodoList\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\aaraujo31\\Documents\\Aulas\\TreinaWeb\\Especialista ASP.NET Core\\Fundamentos\\TWTodoList\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "TWTodoList\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T12:44:52.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TodoEntityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\aaraujo31\\Documents\\Aulas\\TreinaWeb\\Especialista ASP.NET Core\\Fundamentos\\TWTodoList\\EntityConfig\\TodoEntityConfig.cs",
+              "RelativeDocumentMoniker": "TWTodoList\\EntityConfig\\TodoEntityConfig.cs",
+              "ToolTip": "C:\\Users\\aaraujo31\\Documents\\Aulas\\TreinaWeb\\Especialista ASP.NET Core\\Fundamentos\\TWTodoList\\EntityConfig\\TodoEntityConfig.cs",
+              "RelativeToolTip": "TWTodoList\\EntityConfig\\TodoEntityConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T12:18:39.907Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
