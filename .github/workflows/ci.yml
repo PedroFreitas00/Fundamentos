@@ -1,0 +1,30 @@
+name: .NET Build
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    defaults:
+      run:
+        working-directory: TWTodoList  # pasta onde está o projeto
+
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v3
+
+      - name: Instalar .NET
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '9.0.304'   
+
+      - name: Restaurar dependências
+        run: dotnet restore
+
+      - name: Compilar projeto
+        run: dotnet build --no-restore --configuration Release
